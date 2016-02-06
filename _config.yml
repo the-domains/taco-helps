@@ -1,0 +1,28 @@
+name: taco-helps
+favicon: null
+layout_spectrum: 0.051675269613042474
+typography_spectrum: 0.13907285244204104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21500600641593337
+  lightness: 0.6668558334931731
+  saturation: 0.4987765096593648
+  rhythmicContrast: 0.10119886673055589
+purpose: []
