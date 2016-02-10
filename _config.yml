@@ -1,28 +1,40 @@
-name: taco-helps
 favicon: null
-layout_spectrum: 0.91372
-typography_spectrum: 0.05221
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: taco-helps
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#827153'
-    - '#ffffff'
-    - '#bedffe'
-    - '#c2b497'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.8369176
+  lightness: 0.9480287
+  brandColors:
+    - '#041C18'
+    - '#979C9A'
+    - '#FAD8C6'
+    - '#6E1616'
+    - '#5C4C5B'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.05221
+layout_spectrum: 0.91372
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
