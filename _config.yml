@@ -1,9 +1,7 @@
-favicon: null
 name: taco-helps
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.91372
+typography_spectrum: 0.05221
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: taco helps - tiergestütze Therapie
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.8369176
-  lightness: 0.9480287
   brandColors:
     - '#041C18'
     - '#979C9A'
     - '#FAD8C6'
     - '#6E1616'
     - '#5C4C5B'
+  brandStrength: 0.8369176
+  lightness: 0.9480287
+  saturation: 0.5
   rhythmicContrast: 0.5
-typography_spectrum: 0.05221
-layout_spectrum: 0.91372
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
